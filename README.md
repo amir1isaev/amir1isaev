@@ -13,7 +13,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next](https://img.shields.io/badge/next-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=reactnative&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/ReactNative-%2320232a.svg?style=for-the-badge&logo=reactnative&logoColor=%2361DAFB)
 ![UI|UX](https://img.shields.io/badge/ui|ux-%2320232a.svg?style=for-the-badge&logo=uiu&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%2361DAFB)
 ![Notion](https://img.shields.io/badge/notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=%2361DAFB)
