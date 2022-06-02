@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onemgvv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=onemgvv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amir1isaev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔧 Technologies & Tools
 ![SPRING](https://img.shields.io/badge/spring-green.svg?style=for-the-badge&logo=spring&logoColor=white)
