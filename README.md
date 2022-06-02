@@ -24,4 +24,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Html](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E)
 ![Css](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
-![Php](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=%23F7DF1E)
+![Php](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=%140047)
